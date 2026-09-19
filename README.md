@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BB6BD9&center=true&vCenter=true&width=500&lines=Hi,+I'm+Epic Boy;I+From+Morocco;I+Live+In+Kenitra" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BB6BD9&center=true&vCenter=true&width=500&lines=Hi,+I'm+Epic Boy;I+From+Morocco;I+Live+In+Kenitra](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=BB6BD9&center=true&vCenter=true&width=500&lines=Hi,+I%27m+Epic%20Boy;I+From+Morocco;I+Live+In+Kenitra)" alt="Typing SVG" />
 
   <br/>
   <img src="assets/raiden.gif" width="350" style="border-radius: 10px;" />
