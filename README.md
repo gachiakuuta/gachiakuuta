@@ -7,7 +7,7 @@
   <br/>
 
   <br/>
-  <h3>Developer  •  Anime  •  hentai  •  Music  •  Arch Linux</h3>
+  <h3>Developer  •  Anime  •  Kirby  •  Ice Bear  •  Baby Ice</h3>
   <br/>
 
   <a href="https://skillicons.dev">
