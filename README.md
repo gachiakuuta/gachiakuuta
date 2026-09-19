@@ -28,13 +28,13 @@
   <br/><br/>
 
   <p>
-    <a href="https://discord.gg/hZf4j8GzzK" target="_blank">
+    <a href="https://discord.gg/DJZ7YbP8wZ" target="_blank">
       <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
     </a>
-    <a href="https://www.youtube.com/@manish_boyy" target="_blank">
+    <a href="https://www.youtube.com/@gachiakuuta" target="_blank">
       <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/its_manish_boyy/" target="_blank">
+    <a href="https://www.instagram.com/amine.hbil?stkn=MTV3OWV2ZmlndjJ4cg%3D%3D&utm_source=qr" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
     </a>
   </p>
