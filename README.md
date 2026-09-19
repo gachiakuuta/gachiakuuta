@@ -21,7 +21,7 @@
   
   <br/><br/>
 
-  <img src="<svg xmlns="" />
+  <img src="<svg xmlns="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Discord.svg" />
   
   <br/><br/>
 
