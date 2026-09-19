@@ -10,9 +10,6 @@
   <h3>Developer  •  Anime  •  Kirby  •  Ice Bear  •  Baby Ice</h3>
   <br/>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?<svg xmlns="[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)"" />
-
   <a href="https://discord.com/users/401881435293745192"><img src="https://lanyard.cnrad.dev/api/401881435293745192?borderRadius=10&bg=FFFFFF&idleMessage=Sleeping&ignoreAppId=401881435293745192&theme=dark" /></a>
   <br/><br/>
 
