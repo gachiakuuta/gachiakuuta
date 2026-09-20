@@ -10,7 +10,7 @@
   <h3>Developer  •  Anime  •  Kirby  •  Ice Bear  •  Baby Ice</h3>
   <br/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard.cnrad.dev/api/401881435293745192)](https://discord.com/users/401881435293745192)
   
   <br/><br/>
 
