@@ -10,7 +10,7 @@
   <h3>Developer  •  Anime  •  Kirby  •  Ice Bear  •  Baby Ice</h3>
   <br/>
 
-  <a href="https://discord.com/users/401881435293745192"><img src="https://lanyard.cnrad.dev/api/401881435293745192?borderRadius=10&bg=FFFFFF&idleMessage=Sleeping&ignoreAppId=401881435293745192&theme=dark" /></a>
+  <a href="https://discord.com/users/401881435293745192"><img src="[![Discord Presence](https://lanyard.cnrad.dev/api/401881435293745192?bg=1A1C1F&borderRadius=10px&idleMessage=Sleeping&ignoreAppId=1550979690813071480&theme=dark&showDisplayName=true)](https://discord.com/users/401881435293745192)" /></a>
   <br/><br/>
 
   <p>
