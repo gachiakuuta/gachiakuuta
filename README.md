@@ -11,7 +11,7 @@
   <br/>
 
    <a href="https://discord.com/users/401881435293745192" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1123856956780728411?bg=0d1117&borderRadius=10px&idleMessage=SLEEPING&theme=dark&showDisplayName=true" />
+    <img src="https://lanyard.cnrad.dev/api/401881435293745192?bg=0d1117&borderRadius=10px&idleMessage=SLEEPING&theme=dark&showDisplayName=true" />
   </a>
   <br/><br/>
 
