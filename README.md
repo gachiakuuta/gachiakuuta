@@ -5,10 +5,6 @@
   <br/>
   <img src="IMG_0051.jpeg" width="350" style="border-radius: 10px;" />
   <br/>
-
-  <br/>
-  <img src="76BC21FA-DF7E-4912-937A-87D983D720F4.gif" width="350" style="border-radius: 10px;" />
-  <br/>
   
   <br/>
   <h3>Developer  •  Anime  •  Kirby  •  Ice Bear  •  Baby Ice</h3>
