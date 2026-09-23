@@ -10,7 +10,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Anime;Ice+Bear+Baby+Ice;Kirby" alt="Typing SVG" />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/401881435293745192)](https://discord.com/users/401881435293745192)
+<a href="https://discord.com/users/401881435293745192"><img src="https://lanyard.cnrad.dev/api/401881435293745192?showDisplayName=true&borderRadius=10px&ignoreAppId=401881435293745192&bg=FFFFF&idleMessage=Slepping&theme=dark" /></a>
   
   <br/><br/>
 
