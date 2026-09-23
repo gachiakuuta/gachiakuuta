@@ -6,9 +6,7 @@
   <img src="IMG_0040.jpeg" width="350" style="border-radius: 10px;" />
   <br/>
   
-  <br/>
-  <h3>Developer  •  Anime  •  Kirby  •  Ice Bear  •  Baby Ice</h3>
-  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi,+I%27m+Epic%20Boy;he+/him" alt="Typing SVG" />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/401881435293745192)](https://discord.com/users/401881435293745192)
   
