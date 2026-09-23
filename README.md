@@ -6,7 +6,7 @@
   <img src="IMG_0040.jpeg" width="350" style="border-radius: 10px;" />
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=he+/him" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=he/him" alt="Typing SVG" />
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Anime+Ice+Bear+Baby+Ice;Kirby" alt="Typing SVG" />
 
