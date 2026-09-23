@@ -16,9 +16,15 @@
   <br/><br/>
 
 <a href="https://discord.com/users/401881435293745192"><img src="https://lanyard.cnrad.dev/api/401881435293745192?showDisplayName=true&borderRadius=10px&ignoreAppId=401881435293745192&bg=FFFFF&idleMessage=Slepping&theme=dark" /></a>
-  
+
   <br/><br/>
 
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BB6BD9&text=Profile%20Views&height=30&fontSize=20" alt="Profile Views Label" />
+  <br/>
+  <img src="https://count.getloli.com/@manishbhaiii?name=manishbhaiii&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+  
+  <br/><br/>
+  
   <p>
     <a href="https://discord.gg/DJZ7YbP8wZ" target="_blank">
       <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
