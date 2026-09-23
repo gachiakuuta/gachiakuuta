@@ -10,9 +10,8 @@
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Anime;Ice+Bear+Baby+Ice;Kirby" alt="Typing SVG" />
 
-  <a href="">
-    <img src="https://skillicons.dev”
-      i=nodejs,tailwind,mongodb,vscode,apple,discord&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,mongodb,vscode,vercel,arch&theme=dark" />
   </a>
   <br/><br/>
 
