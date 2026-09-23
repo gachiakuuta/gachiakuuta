@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Anime;Ice+Bear+Baby+Ice;Kirby" alt="Typing SVG" />
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,powershell,windows,vscode,commandprompt,apple&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,powershell,windows,vscode,bat,apple&theme=dark" />
   </a>
   <br/><br/>
 
