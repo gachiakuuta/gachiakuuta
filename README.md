@@ -8,7 +8,7 @@
   
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=he+/him" alt="Typing SVG" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Anime+Ice+Bear+Baby+Ice+Kirby" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Anime+Ice+Bear+Baby+Ice;Kirby" alt="Typing SVG" />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/401881435293745192)](https://discord.com/users/401881435293745192)
   
