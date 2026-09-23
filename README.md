@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi,+I%27m+Epic%20Boy;I+From+Morocco;I+Live+In+Kenitra" alt="Typing SVG" />
   
   <br/>
-  <img src="IMG_0040.jpeg" width="350" style="border-radius: 100px;" />
+  <img src="IMG_0040.jpeg" width="350" style="border-radius: 10px;" />
   <br/>
   
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=he+/him" alt="Typing SVG" />
