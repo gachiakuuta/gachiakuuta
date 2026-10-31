@@ -11,7 +11,7 @@
   <br/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spotify,vscode,html,vercel,windows,powershell,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gmail,github,discord,bots,instagram,spotify,ai,replit,vscode,html,vercel,windows,powershell,kali,linux,ubuntu,apple&theme=dark" />
   </a>
   <br/><br/>
 
