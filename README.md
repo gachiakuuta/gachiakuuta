@@ -7,7 +7,7 @@
   <br/>
 
   <br/>
-  <h3>Developer  •  Anime  •  hentai  •  Windows  •  Kali Linux</h3>
+  <h3>Developer  /  Anime  /  Ice Bear  /  Baby Ice  /  Kirby  /  Windows  /  Kali Linux</h3>
   <br/>
 
   <a href="https://skillicons.dev">
@@ -16,14 +16,14 @@
   <br/><br/>
 
   <a href="https://discord.com/users/250444648173010944" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1123856956780728411?bg=0d1117&borderRadius=10px&idleMessage=SLEEPING&theme=dark&showDisplayName=true" />
+    <img src="https://lanyard.cnrad.dev/api/250444648173010944?bg=0d1117&borderRadius=10px&idleMessage=SLEEPING&theme=dark&showDisplayName=true" />
   </a>
   
   <br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BB6BD9&text=Profile%20Views&height=30&fontSize=20" alt="Profile Views Label" />
   <br/>
-  <img src="https://count.getloli.com/@manishbhaiii?name=manishbhaiii&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+  <img src="https://count.getloli.com/@gachiakuuta?name=manishbhaiii&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
   
   <br/><br/>
 
