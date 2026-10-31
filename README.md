@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BB6BD9&center=true&vCenter=true&width=500&lines=Hi,+I'm+Epic+Boy;Epic+Boy+Main;I+use+Windows+11;Building+Websites/Tools" alt="Typing SVG" />
 
   <br/>
-  <img src="assets/IMG_0302.jpeg" width="350" style="border-radius: 10px;" />
+  <img src="assets/IMG_0119.jpeg" width="350" style="border-radius: 10px;" />
   <br/>
 
   <br/>
