@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BB6BD9&center=true&vCenter=true&width=500&lines=Hi,+I'm+Manish;Raiden+Shogun+Main;I+use+Arch+btw;Building+Bots/Selfbots" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BB6BD9&center=true&vCenter=true&width=500&lines=Hi,+I'm+Epic+Boy;Epic+Boy+Main;I+use+Windows+11;Building+Websites/Tools" alt="Typing SVG" />
 
   <br/>
-  <img src="assets/raiden.gif" width="350" style="border-radius: 10px;" />
+  <img src="assets/IMG_0149.jpeg" width="350" style="border-radius: 10px;" />
   <br/>
 
   <br/>
-  <h3>Developer  •  Anime  •  hentai  •  Music  •  Arch Linux</h3>
+  <h3>Developer  •  Anime  •  hentai  •  Windows  •  Kali Linux</h3>
   <br/>
 
   <a href="https://skillicons.dev">
@@ -15,7 +15,7 @@
   </a>
   <br/><br/>
 
-  <a href="https://discord.com/users/1123856956780728411" target="_blank">
+  <a href="https://discord.gg/user/250444648173010944" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1123856956780728411?bg=0d1117&borderRadius=10px&idleMessage=SLEEPING&theme=dark&showDisplayName=true" />
   </a>
   
