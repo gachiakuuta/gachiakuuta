@@ -50,8 +50,3 @@
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/refs/heads/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/refs/heads/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/output/github-contribution-grid-snake.svg)">
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-
-</div>
