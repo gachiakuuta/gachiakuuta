@@ -49,4 +49,5 @@
   <a href="https://github.com/gachiakuuta">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/refs/heads/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/refs/heads/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/output/github-contribution-grid-snake.svg)">
+  <source media="(prefers-color-scheme: light)" srcset="![GitHub contribution grid snake](https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub contribution grid snake](https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/output/github-contribution-grid-snake.svg#gh-light-mode-only)
