@@ -6,9 +6,7 @@
   <img src="20CDF207-23A9-4646-98B2-887D9F750E40.gif" width="250" style="border-radius: 10px;" />
   <br/>
 
-  <br/>
-  <h3>Developer  /  Anime  /  Ice Bear  /  Baby Ice  /  Kirby  /  Windows  /  Kali Linux</h3>
-  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Websites/Tools;Games;Watcher+Anime" alt="Typing SVG" />
 
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=gmail,github,discord,bots,instagram,spotify,replit,vscode,html,vercel,windows,powershell,kali,linux,ubuntu,apple&theme=dark" />
