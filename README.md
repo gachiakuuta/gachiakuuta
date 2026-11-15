@@ -39,10 +39,6 @@
   </p>
 
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gachiakuuta&show_icons=true&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e&icon_color=BB6BD9" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gachiakuuta&layout=compact&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e" height="140"/>
-</div>
-
 <div align="center">
   <br/><br/>
   <a href="https://github.com/gachiakuuta">
