@@ -7,7 +7,7 @@
   <br/>
   
 <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Websites/Tools;Games;Watcher+Anime" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Websites/Tools;Gamer;Watcher+Anime" alt="Typing SVG" />
 
 <br/>
   <img src="8F747EB6-28C8-4567-9478-A26869AD8BAA.gif" width="250" style="border-radius: 10px;" />
