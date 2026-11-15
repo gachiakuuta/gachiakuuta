@@ -15,9 +15,9 @@
   </a>
   <br/><br/>
 
-  <a href="https://discord.com/users/250444648173010944" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/250444648173010944?bg=0d1117&borderRadius=10px&idleMessage=SLEEPING&theme=dark&showDisplayName=true" />
-  </a>
+<br/>
+  <img src="20CDF207-23A9-4646-98B2-887D9F750E40.gif" width="250" style="border-radius: 10px;" />
+  <br/>
   
   <br/><br/>
 
