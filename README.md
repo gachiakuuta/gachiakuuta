@@ -22,8 +22,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Profile%20Views&height=30&fontSize=20" alt="Profile Views Label" />
   <br/>
-  <img src="https://count.getloli.com/@gachiakuuta?name=manishbhaiii&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
-  
+    <img src="IMG_0119.jpeg" width="250" style="border-radius: 10px;" />
   <br/><br/>
 
   <p>
