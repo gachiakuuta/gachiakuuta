@@ -22,7 +22,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Profile%20Views&height=30&fontSize=20" alt="Profile Views Label" />
   <br/>
-    <img src="IMG_0119.jpeg" width="250" style="border-radius: 10px;" />
+    <img src="20CDF207-23A9-4646-98B2-887D9F750E40.gif" width="250" style="border-radius: 10px;" />
   <br/><br/>
 
   <p>
