@@ -5,7 +5,8 @@
   <br/>
   <img src="20CDF207-23A9-4646-98B2-887D9F750E40.gif" width="250" style="border-radius: 10px;" />
   <br/>
-
+  
+<br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Websites/Tools;Games;Watcher+Anime" alt="Typing SVG" />
 
   <a href="https://skillicons.dev">
