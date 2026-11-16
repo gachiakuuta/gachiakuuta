@@ -3,19 +3,24 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Epic+Boy;Epic+Boy+Main;I+Use+Ipad+Now;Building+Websites/Tools" alt="Typing SVG" />
 
 <br/>
+
 <img src="20CDF207-23A9-4646-98B2-887D9F750E40.gif" width="250" style="border-radius: 10px;" />
+
 <br/>
   
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Developer;Websites/Tools;Gamer;Watcher+Anime" alt="Typing SVG" />
 
 <br/>
+
 <img src="8F747EB6-28C8-4567-9478-A26869AD8BAA.gif" width="250" style="border-radius: 10px;" />
+
 <br/>
+
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=gmail,github,discord,bots,instagram,spotify,replit,vscode,html,vercel,windows,powershell,kali,linux,ubuntu,apple&theme=dark" />
-  </a>
+</a>
   
 <br/><br/>
   
@@ -48,6 +53,7 @@
 </p>
 
 <br/>
+
 <div align="center">
 <br/><br/>
 <a href="https://github.com/gachiakuuta">
