@@ -22,7 +22,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Profile%20View&height=30&fontSize=20" alt="Profile Views Label" />
   <br/>  
-  <img src="[https://count.getloli.com/@manishbhaiii?name=manishbhaiii&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto](https://count.getloli.com/@gachiakuuta?theme=random&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)" alt="Moe Counter" />
+<img src="https://count.getloli.com/@gachiakuuta?name=gachiakuuta&theme=moebooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+
   <br/><br/>
 
   <p>
