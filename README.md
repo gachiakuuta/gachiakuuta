@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Epic+Boy;Epic+Boy+Main;I+Use;Ipad+Now;Building+Websites/Tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Epic+Boy🤗;Epic+Boy+Main;I+Use;Ipad+Now🍎🍏;Building+Websites/Tools🪩" alt="Typing SVG" />
 
 <br/>
 
