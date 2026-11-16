@@ -41,10 +41,11 @@
 <div align="center">
   <br/><br/>
   <a href="https://github.com/gachiakuuta">
+
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/output/github-snake.svg" />
 </picture>
 
   </a>
