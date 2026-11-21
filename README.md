@@ -24,12 +24,12 @@
 <div align="center">
 
 <table>
-<img src="https://skillicons.dev/icons?i=html,nodejs,py,powershell,discord,discordbots&theme=dark"
-i=react,nextjs,ts,js,tailwind,styledcomponents,html&theme=dark"
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma&theme=dark"
-<img src="https://skillicons.dev/icons?i=discordjs,discord,bots,rust&theme=dark"
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark"
-<img src="https://skillicons.dev/icons?i=apple,windows&theme=dark"
+<tr><td align="center"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,py,bun&theme=dark" /></td></tr>
+<tr><td align="center"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,styledcomponents,html&theme=dark" /></td></tr>
+<tr><td align="center"><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma&theme=dark" /></td></tr>
+<tr><td align="center"><b>Bots & Systems</b></td><td><img src="https://skillicons.dev/icons?i=discordjs,discord,bots,rust&theme=dark" /></td></tr>
+<tr><td align="center"><b>DevOps</b></td><td><img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,gcp,sentry,git&theme=dark" /></td></tr>
+<tr><td align="center"><b>Tooling</b></td><td><img src="https://skillicons.dev/icons?i=webpack,npm,postman,vscode&theme=dark" /></td></tr>
 <table>
 
 <br/><br/>
