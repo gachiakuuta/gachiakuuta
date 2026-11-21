@@ -44,7 +44,7 @@ i=gmail,github,discord,bots,instagram,spotify,replit,vscode,html,vercel,windows,
 </a>
 
 <a href="https://www.youtube.com/@gachiakuuta" target="_blank">
-<img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/Youtube-5865F2?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </a>
 
 <a href="https://www.instagram.com/amine.teen/" target="_blank">
