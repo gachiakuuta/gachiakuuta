@@ -73,8 +73,6 @@ i=react,nextjs,ts,js,tailwind,styledcomponents,html&theme=dark" /></td></tr>
 <br/><br/>
 <a href="https://github.com/gachiakuuta">
 
-</a>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Github%20Analytics&height=30&fontSize=20" alt="Github Analytics" />
 
 ![](https://github-readme-stats.shion.dev/api?username=gachiakuuta&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
