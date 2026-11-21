@@ -68,8 +68,8 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Github%20Analytics&height=30&fontSize=20" alt="Github Analytics" />
 
 ![](https://github-readme-stats.shion.dev/api?username=gachiakuuta&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gachiakuuta&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gachiakuuta&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=gachiakuuta&theme=transparent&hide_border=true)
+username=gachiakuuta&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact <br/>)
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gachiakuuta/gachiakuuta/output/github-snake-dark.svg" />
