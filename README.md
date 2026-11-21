@@ -42,7 +42,7 @@
 
 <br/>
 
-<img src="[https://count.getloli.com/@gachiakuuta?name=gachiakuuta&theme=moebooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto](https://count.getloli.com/@gachiakuuta?theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)" alt="Moe Counter" />
+<img src="https://count.getloli.com/@gachiakuuta?theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
 
 <br/><br/>
 
