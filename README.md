@@ -24,7 +24,7 @@
 <div align="center">
 
 <table>
-<tr><td align="center"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=html,nodejs,py,graphql,py,bun&theme=dark" /
+<tr><td align="center"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=html,nodejs,py,powershell,discord,discordbots&theme=dark" /
 </td></tr>
 <tr><td align="center"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons
 i=react,nextjs,ts,js,tailwind,styledcomponents,html&theme=dark" /></td></tr>
