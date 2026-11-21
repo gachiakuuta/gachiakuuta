@@ -30,7 +30,8 @@ i=react,nextjs,ts,js,tailwind,styledcomponents,html&theme=dark"
 <img src="https://skillicons.dev/icons?i=discordjs,discord,bots,rust&theme=dark"
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark"
 <img src="https://skillicons.dev/icons?i=apple,windows&theme=dark"
-  
+<table>
+
 <br/><br/>
   
 <a href="https://discord.com/users/250444648173010944">
