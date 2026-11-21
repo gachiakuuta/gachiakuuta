@@ -42,7 +42,7 @@
 <br/><br/>
 
 <p>
-<a href="https://discord.com/users/250444648173010944" target="_blank">
+<a href="https://discord.com/users/685868171755913293"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </a>
 
