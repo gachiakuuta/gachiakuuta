@@ -24,7 +24,7 @@
 <div align="center">
 
 <table>
-<tr><td align="center"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=html,nodejs,py,powershell,py,bun&theme=dark" /></td></tr>
+<tr><td align="center"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=html,nodejs,py,powershell&theme=dark" /></td></tr>
 <tr><td align="center"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i= &theme=dark" /></td></tr>
 <tr><td align="center"><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=discord,discordbots,brave,github,gmail&theme=dark" /></td></tr>
 <tr><td align="center"><b>Ai</b></td><td><img src="https://skillicons.dev/icons?i=chatgpt,claude,claudecode,codex&theme=dark" /></td></tr>
