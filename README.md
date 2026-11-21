@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="20CDF207-23A9-4646-98B2-887D9F750E40.gif" width="250" style="border-radius: 10px;" />
+<img src="IMG_0190.jpeg" width="250" style="border-radius: 10px;" />
 
 <br/>
   
@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="8F747EB6-28C8-4567-9478-A26869AD8BAA.gif" width="250" style="border-radius: 10px;" />
+<img src="IMG_0191.jpeg" width="250" style="border-radius: 10px;" />
 
 <br/>
 
