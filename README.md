@@ -23,15 +23,12 @@
 
 <div align="center">
 
-<table>
 <img src="https://skillicons.dev/icons?i=html,nodejs,py,powershell,discord,discordbots&theme=dark"
-<img src="https://skillicons.dev/icons
 i=react,nextjs,ts,js,tailwind,styledcomponents,html&theme=dark"
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma&theme=dark"
 <img src="https://skillicons.dev/icons?i=discordjs,discord,bots,rust&theme=dark"
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark"
 <img src="https://skillicons.dev/icons?i=apple,windows&theme=dark"
-</table>
   
 <br/><br/>
   
