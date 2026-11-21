@@ -24,14 +24,14 @@
 <div align="center">
 
 <table>
-<tr><td align="center"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=html,nodejs,py,powershell,discord,discordbots&theme=dark" /
+<tr><td align="center"><b></b></td><td><img src="https://skillicons.dev/icons?i=html,nodejs,py,powershell,discord,discordbots&theme=dark" /
 </td></tr>
-<tr><td align="center"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons
+<tr><td align="center"><b></b></td><td><img src="https://skillicons.dev/icons
 i=react,nextjs,ts,js,tailwind,styledcomponents,html&theme=dark" /></td></tr>
-<tr><td align="center"><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma&theme=dark" /></td></tr>
-<tr><td align="center"><b>Ai</b></td><td><img src="https://skillicons.dev/icons?i=discordjs,discord,bots,rust&theme=dark" /></td></tr>
-<tr><td align="center"><b>Development</b></td><td><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></td></tr>
-<tr><td align="center"><b>Systemes</b></td><td><img src="https://skillicons.dev/icons?i=apple,windows&theme=dark" /></td></tr>
+<tr><td align="center"><b></b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma&theme=dark" /></td></tr>
+<tr><td align="center"><b></b></td><td><img src="https://skillicons.dev/icons?i=discordjs,discord,bots,rust&theme=dark" /></td></tr>
+<tr><td align="center"><b></b></td><td><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></td></tr>
+<tr><td align="center"><b></b></td><td><img src="https://skillicons.dev/icons?i=apple,windows&theme=dark" /></td></tr>
 </table>
   
 <br/><br/>
