@@ -25,7 +25,7 @@
 
 <table>
 <tr><td align="center"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=html,nodejs,py,powershell&theme=dark" /></td></tr>
-<tr><td align="center"><b>Ai</b></td><td><img src="https://skillicons.dev/icons?i=claude&theme=dark" /></td></tr>
+<tr><td align="center"><b>AiTools</b></td><td><img src="https://skillicons.dev/icons?i=codex&theme=dark" /></td></tr>
 <tr><td align="center"><b>DevApp</b></td><td><img src="https://skillicons.dev/icons?i=vscode,git,nodejs&theme=dark" /></td></tr>
 <tr><td align="center"><b>Systemes</b></td><td><img src="https://skillicons.dev/icons?i=windows,powershell,vscode,apple&theme=dark" /></td></tr>
 </table>
