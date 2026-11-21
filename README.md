@@ -23,6 +23,7 @@
 
 <div align="center">
 
+<table>
 <img src="https://skillicons.dev/icons?i=html,nodejs,py,powershell,discord,discordbots&theme=dark"
 i=react,nextjs,ts,js,tailwind,styledcomponents,html&theme=dark"
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma&theme=dark"
