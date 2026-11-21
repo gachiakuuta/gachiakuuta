@@ -19,10 +19,8 @@
 
 <br/><br/>
 
-<table>
-
 <img src="https://skillicons.dev/icons?
-<tr><td align="center"><b>Backend</b></td><td>i=gmail,github,discord,bots,instagram,spotify,replit,vscode,html,vercel,windows,powershell,kali,linux,ubuntu,apple&theme=dark" />
+i=gmail,github,discord,bots,instagram,spotify,replit,vscode,html,vercel,windows,powershell,kali,linux,ubuntu,apple&theme=dark" />
 </a>
   
 <br/><br/>
