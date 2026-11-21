@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Tech%20Stacks&height=30&fontSize=20" alt="Tech Stacks" />
 
 <div align="center">
 
